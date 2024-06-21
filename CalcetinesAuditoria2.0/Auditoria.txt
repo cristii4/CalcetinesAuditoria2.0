@@ -1,0 +1,36 @@
+
+
+Un usuario ha accedido al sistema: 2024/06/21 20:54:47
+
+ El usuario: Irene con nivel 2 es quien ha accedido al sistema.
+Irene ha accedido con la opción 'Modificar venta'
+
+Irene ha modificado la venta: 3890;Jonatan Giraldez;Demonios Rojos a : 3890;Martina Fernandez;Demonios Rojos en el archivo 'Ventas.txt'
+Irene ha accedido y ha salido
+
+Un usuario ha accedido al sistema: 2024/06/21 20:58:58
+
+ El usuario: Irene con nivel 2 es quien ha accedido al sistema.
+Irene ha accedido con la opción 'Listar productos'
+Irene ha accedido con la opción 'Crear venta'
+
+Irene ha creado la venta: 9468;Ari Arias;Cohetes blancos en 'Ventas.txt'
+Irene ha accedido y ha salido
+
+Un usuario ha accedido al sistema: 2024/06/21 20:59:50
+
+ El usuario: Patri con nivel 2 es quien ha accedido al sistema.
+Patri ha accedido con la opción 'Activar/Desactivar producto'
+
+Patri ha cambiado la disponibilidad del producto: 8965 en 'Productos.txt'
+Patri ha accedido y ha salido
+
+Un usuario ha accedido al sistema: 2024/06/21 21:00:48
+
+ El usuario: Alexia con nivel 1 es quien ha accedido al sistema.
+Alexia ha accedido con la opción 'Agregar usuario'
+
+Alexia ha creado el usuario: Sandra-3 en el archivo 'Usuarios.txt'
+Alexia ha accedido con la opción 'Agregar producto'
+Alexia ha agregado el producto: 3261;cohetes;negro;7;si a 'Productos.txt'
+Alexia ha accedido y ha salido
